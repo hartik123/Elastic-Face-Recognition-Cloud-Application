@@ -1,0 +1,8 @@
+apptier/.venv/
+webtier/.venv/
+
+apptier/constants.py
+webtier/constants.py
+webtier/resources/Constants.py
+
+apptier/model/facenet_pytorch/
