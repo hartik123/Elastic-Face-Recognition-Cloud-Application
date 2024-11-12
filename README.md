@@ -53,6 +53,9 @@ Two S3 buckets are used for storing images and results:
 - AWS SQS (Simple Queue Service) for managing request-response communication between tiers.
 - AWS S3 (Simple Storage Service) for storing images and classification results.
 
+## Autoscaling
+<img width="862" alt="image" src="https://github.com/user-attachments/assets/e920c3cc-4b04-463b-acf4-21c4c5157dfc">
+
 ## +++++ Test Result Statistics +++++
 Total number of requests: 50 
 
