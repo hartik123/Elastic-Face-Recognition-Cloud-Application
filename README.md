@@ -54,10 +54,16 @@ Two S3 buckets are used for storing images and results:
 - AWS S3 (Simple Storage Service) for storing images and classification results.
 
 ## +++++ Test Result Statistics +++++
-Total number of requests: 50
+Total number of requests: 50 
+
 Total number of requests completed successfully: 50
+
 Total number of failed requests: 0
+
 Total number of correct predictions : 50
+
 Total number of wrong predictions: 0
+
 Total Test Duration: 147.21658992767334 (seconds)
+
 ++++++++++++++++++++++++++++++++++++
